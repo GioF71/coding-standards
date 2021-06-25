@@ -14,6 +14,6 @@ The reason it is important to keep a class focused on a single concern is that i
 
 ## References
 
-The text of this page has been adapted from [this](https://en.wikipedia.org/wiki/Single-responsibility_principle) article on  [Wikipedia](https://www.wikipedia.org/). 
-The term "single-responsability principle" has been introducted by [Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin). 
+The text of this page has been adapted from [this](https://en.wikipedia.org/wiki/Single-responsibility_principle) article on  [Wikipedia](https://www.wikipedia.org/).  
+The term "single-responsability principle" has been introducted by [Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin).  
 Further readings and examples: [Envato envatotuts+](https://code.tutsplus.com/tutorials/solid-part-1-the-single-responsibility-principle--net-36074)
