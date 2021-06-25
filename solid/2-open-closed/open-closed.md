@@ -1,7 +1,7 @@
 # Open-closed principle
 
 ## Principle (from [Wikipedia](https://www.wikipedia.org/))
-In object-oriented programming, the open–closed principle states "software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification";[1] that is, such an entity can allow its behaviour to be extended without modifying its source code.  
+In object-oriented programming, the open–closed principle states "software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification"; that is, such an entity can allow its behaviour to be extended without modifying its source code.  
 The name open–closed principle has been used in two ways. Both ways use generalizations (for instance, inheritance or delegate functions) to resolve the apparent dilemma, but the goals, techniques, and results are different.  
 Open–closed principle is one of the five SOLID principles of object-oriented design.  
 
@@ -18,7 +18,7 @@ This assumes that the module has been given a well-defined, stable description (
 
 At the time Meyer was writing, adding fields or functions to a library inevitably required changes to any programs depending on that library.Meyer's proposed solution to this dilemma relied on the notion of object-oriented inheritance (specifically implementation inheritance):  
 
-* A class is closed, since it may be compiled, stored in a library, baselined, and used by client classes. But it is also open, since any new class may use it as parent, adding new features.  
+* A class is <b>closed</b>, since it may be compiled, stored in a library, baselined, and used by client classes. But it is also <b>open</b>, since any new class may use it as parent, adding new features.  
 When a descendant class is defined, there is no need to change the original or to disturb its clients.
 
 ## References
