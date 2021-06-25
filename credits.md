@@ -4,7 +4,7 @@
 ### Google Java Style Guide
 The html file available here has been copied from [this page](https://google.github.io/styleguide/javaguide.html).
 
-## Solid
+## S.O.L.I.D. principles
 ### Single-responsability principle  
 [This](https://en.wikipedia.org/wiki/Single-responsibility_principle) article from [Wikipedia](https://wikipedia.org).
 ### Open-closed principle  
