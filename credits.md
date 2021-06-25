@@ -13,5 +13,8 @@ The html file available here has been copied from [this page](https://google.git
 ### Liskov-substitution principle  
 [This](https://en.wikipedia.org/wiki/Liskov_substitution_principle) article from [Wikipedia](https://wikipedia.org).
 
+### Interface-segregation principle  
+[This](https://en.wikipedia.org/wiki/Interface_segregation_principle) article from [Wikipedia](https://wikipedia.org).
+
 
 
