@@ -1,7 +1,5 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
-<title>Google Java Style Guide</title>
-
 <link rel="stylesheet" type="text/css" href="javaguide.css">
 
 <script language="javascript" src="include/styleguide.js"></script>
