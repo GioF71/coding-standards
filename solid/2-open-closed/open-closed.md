@@ -24,4 +24,4 @@ When a descendant class is defined, there is no need to change the original or t
 ## References
 
 The text of this page has been adapted from [this](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle) article on  [Wikipedia](https://www.wikipedia.org/).  
-The term "open-closed principle" has been introducted by [Bertrand Meyer](https://en.wikipedia.org/wiki/Bertrand_Meyer).  
+The term "open-closed principle" has been introduced by [Bertrand Meyer](https://en.wikipedia.org/wiki/Bertrand_Meyer).  

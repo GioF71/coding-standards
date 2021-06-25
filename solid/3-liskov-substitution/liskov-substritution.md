@@ -21,4 +21,4 @@ In addition to the signature requirements, the subtype must meet a number of beh
 ## References
 
 The text of this page has been adapted from [this](https://en.wikipedia.org/wiki/Liskov_substitution_principle) article on  [Wikipedia](https://www.wikipedia.org/).  
-The principle has been introducted by [Barbara Liskov](https://en.wikipedia.org/wiki/Barbara_Liskov).  
+The principle has been introduced by [Barbara Liskov](https://en.wikipedia.org/wiki/Barbara_Liskov).  

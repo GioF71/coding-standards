@@ -11,4 +11,4 @@ A system may become so coupled at multiple levels that it is no longer possible 
 ## References
 
 The text of this page has been adapted from [this](https://en.wikipedia.org/wiki/Interface_segregation_principle) article on  [Wikipedia](https://www.wikipedia.org/).  
-The principle has been introducted by [Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin).  
+The principle has been introduced by [Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin).  
