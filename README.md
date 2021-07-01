@@ -1,5 +1,5 @@
 # coding-standards
-A collection of widely available guides, principles to be adopted as our coding standards.  
+A collection of widely available guides, principles to be adopted as coding standards.  
 [Credits](credits.md) will be maintened to be best of my capabilities.
 
 SOLID principles
