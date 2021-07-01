@@ -7,7 +7,7 @@ Credits will be maintened to be best of my capabilities.
   * [<b>O</b>pen-closed](solid/2-open-closed.md)
   * [<b>L</b>iskov substitution](solid/3-liskov-substitution.md)
   * [<b>I</b>nterface segregation](solid/4-interface-segregation.md)
-  * [<b>D</b>Dependency inversion](solid/5-dependency-inversion.md)
+  * [<b>D</b>ependency inversion](solid/5-dependency-inversion.md)
 <br>
 * Style
   * [Google Java Code style](style/google/google-java-code-style.md)
