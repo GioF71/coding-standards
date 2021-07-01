@@ -1,6 +1,6 @@
 # coding-standards
 A collection of widely available guides, principles to be adopted as our coding standards.
-Credits will be maintened to be best of my capabilities.
+[Credits](credits.md) will be maintened to be best of my capabilities.
 
 SOLID principles
   * [<b>S</b>ingle Responsability](solid/1-single-responsibility.md)
