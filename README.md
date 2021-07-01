@@ -10,4 +10,4 @@ SOLID principles
   * [<b>D</b>ependency inversion](solid/5-dependency-inversion.md)
 
 Style
-  * [Google Java Code style](style/google/google-java-code-style.md)
+  * [Google Java Style Guide](style/google/google-java-style-guide.md)
