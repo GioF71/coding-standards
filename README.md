@@ -3,6 +3,11 @@ A collection of widely available guides, principles to be adopted as our coding 
 Credits will be maintened to be best of my capabilities.
 
 * SOLID principles
-* * 1 [Single Responsability](solid/1-single-responsibility.md)
-* 
-* Google Java Code style
+  * [<b>S</b>ingle Responsability](solid/1-single-responsibility.md)
+  * [<b>O</b>pen-closed](solid/2-open-closed.md)
+  * [<b>L</b>iskov substitution](solid/3-liskov-substitution.md)
+  * [<b>I</b>nterface segregation](solid/4-interface-segregation.md)
+  * [<b>D</b>Dependency inversion](solid/5-dependency-inversion.md)
+<br>
+* Style
+  * [Google Java Code style](style/google/google-java-code-style.md)
