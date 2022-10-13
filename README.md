@@ -5,11 +5,11 @@ A collection of widely available guides, principles to be adopted as coding stan
 
 ## SOLID principles
 
-* [<b>S</b>ingle Responsability](solid/1-single-responsibility.md)
-* [<b>O</b>pen-closed](solid/2-open-closed.md)
-* [<b>L</b>iskov substitution](solid/3-liskov-substitution.md)
-* [<b>I</b>nterface segregation](solid/4-interface-segregation.md)
-* [<b>D</b>ependency inversion](solid/5-dependency-inversion.md)
+* [**S** Single Responsability](solid/1-single-responsibility.md)
+* [**O** Open-closed](solid/2-open-closed.md)
+* [**L** Liskov substitution](solid/3-liskov-substitution.md)
+* [**I** Interface segregation](solid/4-interface-segregation.md)
+* [**D** Dependency inversion](solid/5-dependency-inversion.md)
 
 ## Style Guidelines
 
