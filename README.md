@@ -17,4 +17,3 @@ D|[Dependency inversion](solid/5-dependency-inversion.md)
 
 * [Google Java Style Guide](https://htmlpreview.github.io/?https://github.com/GioF71/coding-standards/blob/master/style/google/javaguide.html)
 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
